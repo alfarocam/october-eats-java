@@ -1,7 +1,7 @@
 # October Eats
 Aplicación de entrega de comida estilo Uber Eats, desarrollada en Java con arquitectura cliente-servidor, patrón MVC, sockets y base de datos MySQL.
 
-## October Eats - Proyecto Final SC-303
+##Proyecto Final SC-303
 October Eats es una aplicación académica simulada de entrega de comida, creada como proyecto final para el curso **Programación Cliente/Servidor Concurrente (SC-303)** de la Universidad Fidélitas.
 
 La arquitectura está compuesta por tres módulos principales:
